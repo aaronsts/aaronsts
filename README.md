@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm aaron</h1>
-<h3 align="center">A fresh full-stack developer based in Brussels</h3>
-
-- 🌱 I’m currently learning **React**
+<h3 align="center">A full-stack developer based in Brussels</h3>
 
 - 📫 How to reach me **aaron.staes@gmail.com**
 
